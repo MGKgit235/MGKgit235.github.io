@@ -13,7 +13,7 @@ Import the SQL scripts into your preferred SQL environment (e.g., SQLite, Postgr
 
 Ensure the data matches the table schema.
 
-Run the queries in covid_vaccination_analysis.sql to explore the dataset.
+Run the queries in covid19.sql to explore the dataset.
 
 The data sets were downloaded from kaggle(https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)
 
